@@ -1,2 +1,2 @@
 # CHIP8-Emulator
-Building my first emulator
+Building my first emulator.
